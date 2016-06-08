@@ -1,2 +1,2 @@
-# Online Judges Solutions
-Here are all my solutions to problems on some online judges like COJ, UriOJ, etc.
+# Competitive programming solutions
+Here are my solutions to problems on programming contests and some online judges like COJ, UriOJ, etc.
