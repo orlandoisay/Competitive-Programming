@@ -18,7 +18,7 @@ using namespace std;
 class ST {
 public:
     int inf, sup, val; // El nodo se encarga del intervalo [inf,sup]
-    ST *izq=NULL, *der=NULL; // Cada nodo puede tener cero o dos nodos hijos
+    ST *izq = NULL, *der = NULL; // Cada nodo puede tener cero o dos nodos hijos
 
     /**
      * Constructor
@@ -128,7 +128,7 @@ int main() {
 
     for(int i=0;i<v_size;i++) {
         v.push_back(rand() % 20 +1);
-        cout << i << ":" <<v[i] << " ";
+        cout << i << ":" << v[i] << " ";
     }
     cout << "\n";
 
